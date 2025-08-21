@@ -58,6 +58,3 @@ kanavchopra2002@gmail.com
 
 ## Support
 If you found this project helpful, consider starring the repository!
-
-## Support
-If you found this project helpful, consider starring the repository!
