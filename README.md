@@ -30,7 +30,7 @@ Using geospatial and temporal methods, it uncovers operational inefficiencies, c
 
 ---
 
-## How to Run the Project
+## Usage/Running the App
 1. Clone the repository or download the notebook.
 2. Install dependencies:
    ```bash
